@@ -6,6 +6,7 @@ namespace Journal2_0.Models
         public string Prompt { get; set; }
         public string Response { get; set; }
 
+        // Parameterless constructor for JSON deserialization.
         public Entry() { }
 
         public Entry(string date, string prompt, string response)

@@ -19,7 +19,6 @@ This is a C# Console Application that helps users keep a daily journal by provid
 
 ## Project Structure
 
-```
 Journal2_0/
 ├── Journal2_0.csproj
 ├── Program.cs
@@ -28,4 +27,4 @@ Journal2_0/
 │   └── Entry.cs
 ├── journal.json
 └── README.md
-```
+Enjoy your journaling adventure
