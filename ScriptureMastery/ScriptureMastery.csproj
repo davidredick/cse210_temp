@@ -1,0 +1,11 @@
+<!-- Date/Time: 2025-02-04 12:12:00 -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ScriptureMastery</RootNamespace>
+    <!-- Because we like our timestamps and humor to be present in every message -->
+  </PropertyGroup>
+
+</Project>
