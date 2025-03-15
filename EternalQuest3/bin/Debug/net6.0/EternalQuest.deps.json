@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EternalQuest/1.0.0": {
+        "runtime": {
+          "EternalQuest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EternalQuest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

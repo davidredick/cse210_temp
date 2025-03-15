@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcy5YD7+vzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dredic200\\OneDrive - Comcast\\Desktop\\-School\\winter 2025\\cse210_temp\\cse210_temp\\working\\eternalquest3\\EternalQuest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
