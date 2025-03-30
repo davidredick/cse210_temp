@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jnO1x4E5ZZ4=",
+  "dgSpecHash": "8ULAZkRnvu0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dredic200\\OneDrive - Comcast\\Desktop\\-School\\winter 2025\\cse210_temp\\cse210_temp\\final\\FinalProject\\FinalProject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\dredic200\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\dredic200\\OneDrive - Comcast\\Desktop\\-School\\winter 2025\\cse210_temp\\cse210_temp\\final\\finalproject\\FinalProject.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
